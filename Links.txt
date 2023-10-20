@@ -1,0 +1,6 @@
+DASHBOARD
+https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDahboard1&action=view&mode=dashboard
+EXPLORATION
+https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FONLINE_EDU_PORTAL
+STORY
+https://us1.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2FONLINE%2BEDU%2BPORTAL%2BSTORY&action=view&mode=dashboard
